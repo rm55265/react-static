@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Here are the commands used to generate this:
+
 `
 npx create-react-app react-static
 cd react-static
